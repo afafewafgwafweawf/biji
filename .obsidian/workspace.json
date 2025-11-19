@@ -180,11 +180,13 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "a50fb8a4f2ebd3d0",
   "lastOpenFiles": [
+    "神经网络基础.md",
     "数学.md"
   ]
 }
