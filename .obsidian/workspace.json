@@ -25,13 +25,14 @@
             "id": "b0eecb8100628383",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
+                "file": "神经网络基础.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "神经网络基础"
             }
           }
         ],
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.base",
+                "file": "神经网络基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "神经网络基础 的反向链接列表"
             }
           },
           {
@@ -127,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.base",
+                "file": "神经网络基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "神经网络基础 的出链列表"
             }
           },
           {
@@ -170,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.base",
+                "file": "神经网络基础.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "神经网络基础 的大纲"
             }
           }
         ]
@@ -198,12 +199,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0eecb8100628383",
+  "active": "d5910c8500b4be81",
   "lastOpenFiles": [
+    "数学.md",
     "未命名.canvas",
     "未命名.base",
     "神经网络基础.md",
-    "数学.md",
     "测试.md",
     "Pasted image 20251119144701.png",
     "assets/测试",
